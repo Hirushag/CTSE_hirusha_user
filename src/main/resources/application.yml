@@ -5,5 +5,5 @@ server:
 spring:
     data:
       mongodb:
-        uri: mongodb+srv://hirusha25:hirusha25@hirusha.kxlfq.mongodb.net/user
+        uri: mongodb+srv://hirusha25:hirusha25@hirusha.hcqkg.mongodb.net/ctse
 
